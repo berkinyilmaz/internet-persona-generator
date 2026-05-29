@@ -4,7 +4,7 @@ Pick a vibe and get a full aesthetic identity — handle, bio, color palette, tr
 ---
 
 ## Live Demo
-_Coming soon_
+https://internet-persona-generator.vercel.app/
 
 ---
 
